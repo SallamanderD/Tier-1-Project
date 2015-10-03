@@ -1,0 +1,9 @@
+C:\Users\Sallamander-PC\Desktop\New folder\Turn1\CodeFirst\bin\Debug\CodeFirst.dll
+C:\Users\Sallamander-PC\Desktop\New folder\Turn1\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\Sallamander-PC\Desktop\New folder\Turn1\CodeFirst\obj\Debug\CodeFirst.dll
+C:\Users\Sallamander-PC\Desktop\New folder\Turn1\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\Sallamander-PC\Desktop\New folder\Turn1\CodeFirst\bin\Debug\CodeFirst.dll.config
+C:\Users\Sallamander-PC\Desktop\New folder\Turn1\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Sallamander-PC\Desktop\New folder\Turn1\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sallamander-PC\Desktop\New folder\Turn1\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Sallamander-PC\Desktop\New folder\Turn1\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
